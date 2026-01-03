@@ -1,0 +1,75 @@
+/* Contenedor principal de todas las tarjetas */
+.cartelera-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+
+/* La tarjeta individual */
+.pelicula-card {
+  display: flex;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  overflow: hidden;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: transform 0.2s;
+}
+
+.pelicula-card:hover {
+  transform: translateY(-5px);
+}
+
+/* Lado izquierdo: Imagen */
+.pelicula-imagen {
+  width: 200px;
+  height: 300px;
+  object-fit: cover; /* Para que la imagen no se deforme */
+}
+
+/* Lado derecho: Información */
+.pelicula-info {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* Empuja el botón hacia abajo */
+  flex: 1;
+}
+
+.pelicula-info h2 {
+  margin: 0 0 10px 0;
+  color: #333;
+}
+
+.resumen {
+  font-size: 0.95rem;
+  color: #666;
+  line-height: 1.4;
+}
+
+.detalles {
+  font-size: 0.85rem;
+  color: #888;
+  margin-top: 10px;
+}
+
+/* Botón Ver Más */
+.btn-ver-mas {
+  align-self: flex-end; /* Alinea el botón a la derecha */
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+
+.btn-ver-mas:hover {
+  background-color: #0056b3;
+}

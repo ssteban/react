@@ -1,0 +1,182 @@
+[
+  {
+    "ID": 1,
+    "titulo": "Beetlejuice",
+    "director": "Tim Burton",
+    "productora": "The Geffen Company",
+    "resumen": "Una pareja recientemente fallecida contrata los servicios de un \"bio-exorcista\" para eliminar a los nuevos dueños desagradables de su casa.",
+    "año_de_lanzamiento": 1988,
+    "url_foto": "https://upload.wikimedia.org/wikipedia/en/b/ba/Beetlejuice_Beetlejuice_poster.jpg"
+  },
+  {
+    "ID": 2,
+    "titulo": "The Shawshank Redemption",
+    "director": "Frank Darabont",
+    "productora": "Castle Rock Entertainment",
+    "resumen": "Dos hombres presos se vinculan durante varios años, encontrando consuelo y redención final a través de actos de decencia común.",
+    "año_de_lanzamiento": 1994,
+    "url_foto": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg"
+  },
+  {
+    "ID": 3,
+    "titulo": "The Hateful Eight",
+    "director": "Quentin Tarantino",
+    "productora": "The Weinstein Company",
+    "resumen": "Seis o doce años después de la Guerra Civil, un diligenciero atraviesa el paisaje invernal de Wyoming con pasajeros que buscan refugio en una parada, donde descubren que no todos son lo que parecen.",
+    "año_de_lanzamiento": 2015,
+    "url_foto": "https://upload.wikimedia.org/wikipedia/en/d/d4/The_Hateful_Eight.jpg"
+  },
+  {
+    "ID": 4,
+    "titulo": "Landman",
+    "director": "Taylor Sheridan, Christian Wallace",
+    "productora": "Imperative Entertainment, Texas Monthly, Bosque Ranch Productions",
+    "resumen": "Ambientada en los campos petrolíferos del oeste de Texas, la serie sigue a Tommy Norris, un 'landman' de una empresa petrolera, en un mundo de rústicos y multimillonarios que están impulsando un auge que redefine el clima, la economía y la geopolítica.",
+    "año_de_lanzamiento": 2024,
+    "url_foto": "https://image.tmdb.org/t/p/w600_and_h900_face/lGwY36kchDVPqZV02ntlKahO16I.jpg"
+  },
+  {
+    "ID": 5,
+    "titulo": "How to Train Your Dragon (2025)",
+    "director": "Dean DeBlois",
+    "productora": "DreamWorks Animation, Marc Platt Productions, Universal Pictures",
+    "resumen": "Remake en acción real de la película animada de 2010: en la aldea vikinga de Berk, Hiccup Horrendous Haddock III, hijo del jefe Stoick el Grande, intenta convertirse en un cazador de dragones pero termina forjando una amistad con uno de ellos.",
+    "año_de_lanzamiento": 2025,
+    "url_foto": "https://upload.wikimedia.org/wikipedia/en/8/80/How_To_Train_Your_Dragon_2025_Poster.jpg"
+  },
+  {
+    "ID": 6,
+    "titulo": "The Umbrella Academy",
+    "director": "Steve Blackman, Jeremy Slater",
+    "productora": "Borderline Entertainment, Dark Horse Entertainment, Universal Cable Productions",
+    "resumen": "En un universo donde 43 mujeres dan a luz simultáneamente sin haber estado embarazadas, un magnate adopta a siete de ellas para formar un equipo de superhéroes. Años después, se reúnen para investigar la muerte de su padre y evitar el apocalipsis.",
+    "año_de_lanzamiento": 2019,
+    "url_foto": "https://media.senscritique.com/media/000019603616/0/umbrella_academy.jpg"
+  },
+  {
+    "ID": 7,
+    "titulo": "No Escape",
+    "director": "Hans Herbots",
+    "productora": "New Pictures, Viacom International Studios",
+    "resumen": "Dos mejores amigas huyen de sus vidas en el Reino Unido y se suben a un yate llamado The Blue en las Filipinas, donde descubren secretos oscuros que ponen en peligro sus vidas.",
+    "año_de_lanzamiento": 2023,
+    "url_foto": "https://www.flickfilosopher.com/wp-content/uploads/2015/08/noescape.1.jpg"
+  },
+  {
+    "ID": 8,
+    "titulo": "Adolescencia",
+    "director": "Philip Barantini",
+    "productora": "Warp Films, It's All Made Up Productions, Plan B Entertainment",
+    "resumen": "Un niño de 13 años es arrestado por el asesinato de una compañera de clase, pero la trama se centra en el desarrollo de personajes y en los detectives que buscan conocer el motivo del crimen, rodada en planos secuencia.",
+    "año_de_lanzamiento": 2025,
+    "url_foto": "https://upload.wikimedia.org/wikipedia/en/5/5d/Adolescence_%28TV_series%29.jpg"
+  },
+  {
+    "ID": 9,
+    "titulo": "Crime Crackdown",
+    "director": "Liu Jiang",
+    "productora": "Tencent Penguin Pictures, China Chang'an Press, Taihu Media",
+    "resumen": "La historia se centra en cómo la fuerza oficial combate el mundo criminal de Lü Teng, en Zhongjiang.",
+    "año_de_lanzamiento": 2021,
+    "url_foto": "https://upload.wikimedia.org/wikipedia/en/4/45/Crime_Crackdown_%282021_Chinese_TV_series%29.jpg"
+  },
+  {
+    "ID": 10,
+    "titulo": "Demon Slayer: Kimetsu no Yaiba",
+    "director": "Haruo Sotozaki",
+    "productora": "Ufotable, Aniplex, Shueisha",
+    "resumen": "En la era Taishō de Japón, Tanjiro Kamado se convierte en un cazador de demonios después de que su familia es asesinada y su hermana menor Nezuko es convertida en un demonio.",
+    "año_de_lanzamiento": 2019,
+    "url_foto": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/kimetsu_no_yaiba_anime2.jpg"
+  },
+  {
+    "ID": 11,
+    "titulo": "Breaking Bad",
+    "director": "Vince Gilligan",
+    "productora": "Sony Pictures Television, Gran Via Productions",
+    "resumen": "Un profesor de química diagnosticado con cáncer incurable se dedica a fabricar y vender metanfetamina con un exalumno para asegurar el futuro de su familia.",
+    "año_de_lanzamiento": 2008,
+    "url_foto": "https://assets-prd.ignimgs.com/2023/01/20/breaking-bad-newbutton-1674233834062.jpg"
+  },
+  {
+    "ID": 12,
+    "titulo": "Dark",
+    "director": "Baran bo Odar, Jantje Friese",
+    "productora": "Wiedemann & Berg Television, Netflix",
+    "resumen": "Una saga familiar con un toque sobrenatural, ambientada en un pueblo alemán donde la desaparición de dos niños expone las relaciones entre cuatro familias.",
+    "año_de_lanzamiento": 2017,
+    "url_foto": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/dark2017.png"
+  },
+  {
+    "ID": 13,
+    "titulo": "Star Wars: Episodio II - El ataque de los clones",
+    "director": "George Lucas",
+    "productora": "Lucasfilm",
+    "resumen": "Diez años después de la Amenaza Fantasma, Anakin Skywalker, ahora aprendiz de Jedi de Obi-Wan Kenobi, protege a la senadora Padmé Amidala mientras se desarrolla una guerra civil en la galaxia.",
+    "año_de_lanzamiento": 2002,
+    "url_foto": "https://pics.filmaffinity.com/star_wars_episode_ii_attack_of_the_clones-495166632-large.jpg"
+  },
+  {
+    "ID": 14,
+    "titulo": "Evil",
+    "director": "Robert King, Michelle King",
+    "productora": "King Size Productions, CBS Studios",
+    "resumen": "Una psicóloga forense escéptica, un seminarista católico y un contratista de tecnología escéptico son contratados por la Iglesia Católica para investigar supuestos eventos sobrenaturales.",
+    "año_de_lanzamiento": 2019,
+    "url_foto": "https://upload.wikimedia.org/wikipedia/en/4/43/Evil_CBS_Titlecard.jpg"
+  },
+  {
+    "ID": 15,
+    "titulo": "The Undoing",
+    "director": "Susanne Bier",
+    "productora": "HBO Entertainment, Blossom Films, David E. Kelley Productions",
+    "resumen": "Grace Fraser, una terapeuta exitosa, ve cómo su vida perfecta se desmorona cuando se produce una muerte violenta, su esposo desaparece y surgen revelaciones terribles.",
+    "año_de_lanzamiento": 2020,
+    "url_foto": "https://upload.wikimedia.org/wikipedia/en/b/b6/The_Undoing.png"
+  },
+  {
+    "ID": 16,
+    "titulo": "Crocodile Dundee",
+    "director": "Peter Faiman",
+    "productora": "Paramount Pictures, Rimfire Films",
+    "resumen": "Una periodista estadounidense viaja al interior de Australia para conocer a un cazador de cocodrilos excéntrico y lo invita a la ciudad de Nueva York.",
+    "año_de_lanzamiento": 1986,
+    "url_foto": "https://upload.wikimedia.org/wikipedia/en/a/a6/Crocodile_Dundee_original_Australian_New_Zealand_poster.jpg"
+  },
+  {
+    "ID": 17,
+    "titulo": "Reservoir Dogs",
+    "director": "Quentin Tarantino",
+    "productora": "Live Entertainment, Dog Eat Dog Productions",
+    "resumen": "Después de un robo de joyería que sale mal, los ladrones se reúnen en un refugio y comienzan a sospechar que uno de ellos es un policía infiltrado.",
+    "año_de_lanzamiento": 1992,
+    "url_foto": "https://upload.wikimedia.org/wikipedia/en/0/01/Reservoir_Dogs.png"
+  },
+  {
+    "ID": 18,
+    "titulo": "The Cotton Club",
+    "director": "Francis Ford Coppola",
+    "productora": "Zoetrope Studios, Orion Pictures",
+    "resumen": "El Cotton Club era un famoso club nocturno de Harlem. La historia sigue a las personas que lo visitaban, a quienes lo dirigían y está salpicada de la música jazz que lo hizo famoso.",
+    "año_de_lanzamiento": 1984,
+    "url_foto": "https://upload.wikimedia.org/wikipedia/en/0/0b/Cotton_club.jpg"
+  },
+  {
+    "ID": 19,
+    "titulo": "Attack on Titan",
+    "director": "Tetsurō Araki, Masashi Koizuka",
+    "productora": "Wit Studio, MAPPA, Production I.G",
+    "resumen": "Después de que su ciudad natal es destruida por titanes, gigantes humanoides que se alimentan de personas, Eren Jaeger jura limpiar la Tierra de estos seres y salvar a la humanidad.",
+    "año_de_lanzamiento": 2013,
+    "url_foto": "https://upload.wikimedia.org/wikipedia/en/d/d6/Shingeki_no_Kyojin_manga_volume_1.jpg"
+  },
+  {
+    "ID": 20,
+    "titulo": "The Adventures of Ford Fairlane",
+    "director": "Renny Harlin",
+    "productora": "Silver Pictures, 20th Century Fox",
+    "resumen": "Ford Fairlane, un detective privado especializado en casos relacionados con la música rock, investiga el asesinato de un DJ famoso en Los Ángeles.",
+    "año_de_lanzamiento": 1990,
+    "url_foto": "https://upload.wikimedia.org/wikipedia/en/a/ac/Fordfairlaneposter.jpg"
+  }
+]
