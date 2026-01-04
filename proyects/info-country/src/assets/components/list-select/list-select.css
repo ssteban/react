@@ -1,0 +1,18 @@
+
+.section-select {
+  margin: 16px 0;
+}
+
+.select-list {
+  width: 250px;
+  padding: 10px 12px;
+  font-size: 1rem;
+  font-family: Arial, sans-serif;
+  border: 2px solid #4a90e2;
+  border-radius: 6px;
+  background-color: #f9f9f9;
+  color: #333;
+  outline: none;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}

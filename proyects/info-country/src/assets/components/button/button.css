@@ -1,0 +1,15 @@
+.button-on {
+  background-color: #4a90e2;   
+  color: #fff;                 
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 10px 18px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.button-on:hover {
+  background-color: #357ab8;
+}
+
