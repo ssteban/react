@@ -1,16 +1,45 @@
-# React + Vite
+# Cartelera de Películas - Proyecto React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una aplicación web simple construida con React y Vite que muestra un listado de películas. La aplicación carga los datos desde un archivo JSON local y los presenta en una interfaz de usuario basada en tarjetas.
 
-Currently, two official plugins are available:
+## Descripción del Proyecto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+La aplicación consiste en los siguientes componentes y funcionalidades:
 
-## React Compiler
+- **`App.jsx`**: Es el componente principal de la aplicación. Se encarga de:
+  -   Realizar una solicitud `fetch` para obtener los datos de las películas desde el archivo `/public/data/cartelera.json` cuando el componente se monta, utilizando el hook `useEffect`.
+  -   Almacenar la lista de películas en el estado del componente con `useState`.
+  -   Iterar sobre la lista de películas y renderizar un componente `Contenedor` para cada una, pasándole las propiedades correspondientes (título, resumen, imagen, etc.).
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+- **`components/card/contenedor.jsx`**: Es un componente reutilizable que representa una única "tarjeta" de película. Se encarga de:
+  -   Recibir las propiedades de la película (título, resumen, año, director, imagen).
+  -   Estructurar el HTML para mostrar la información de la película de forma organizada, incluyendo la imagen, los detalles y un botón "Ver más".
 
-## Expanding the ESLint configuration
+- **`components/card/contenedor.css`**: Contiene los estilos CSS para dar formato y diseño a las tarjetas de las películas, utilizando Flexbox para el layout y añadiendo efectos visuales como sombras y transiciones.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **`public/data/cartelera.json`**: Un archivo JSON estático que actúa como una base de datos local, conteniendo un array de objetos, donde cada objeto representa una película con sus detalles.
+
+## Cómo ejecutar el proyecto
+
+Para poder visualizar o trabajar en el proyecto en un entorno de desarrollo local, sigue estos pasos:
+
+### Prerrequisitos
+
+-   Tener instalado [Node.js](https://nodejs.org/) (que incluye npm).
+
+### Instalación
+
+1.  Clona el repositorio o descarga el código fuente en tu máquina local.
+2.  Abre una terminal en el directorio raíz del proyecto.
+3.  Instala las dependencias del proyecto ejecutando:
+    ```sh
+    npm install
+    ```
+
+### Ejecución
+
+1.  Una vez instaladas las dependencias, ejecuta el siguiente comando para iniciar el servidor de desarrollo de Vite:
+    ```sh
+    npm run dev
+    ```
+2.  Abre tu navegador web y visita la URL que se muestra en la terminal (normalmente `http://localhost:5173`).
